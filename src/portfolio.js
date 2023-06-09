@@ -99,7 +99,7 @@ const educationInfo = {
       schoolName: "Università degli Studi di Milano",
       logo: require("./assets/images/logo_unimi_tondo.png"),
       subHeader: "Bachelor degree in CyberSecurity",
-      duration: "September 2019 - September 2022",
+      duration: "September 2016 - September 2019",
       descBullets: [
         "Secure software engineering",
         "Advanced computer programming",
