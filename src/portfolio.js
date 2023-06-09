@@ -105,6 +105,18 @@ const educationInfo = {
         "Advanced computer programming",
         "Relational and NoSQL databases"
       ]
+    },
+    {
+      schoolName: "Università degli Studi di Milano",
+      logo: require("./assets/images/logo_unimi_tondo.png"),
+      subHeader: "Master degree in CyberSecurity",
+      duration: "September 2019 - Suspended",
+      descBullets: [
+        "Software engineering",
+        "Operating Systems",
+        "Software development in complex working groups",
+        "Distributed and Pervasive Systems"
+      ]
     }
   ]
 };
